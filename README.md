@@ -6,12 +6,6 @@
 
 ![Robot6](https://github.com/user-attachments/assets/b728e174-c3d8-40e3-b58b-806645a2c846)
 
-![Robot5](https://github.com/user-attachments/assets/c7bc55bc-bbae-401f-bf33-5d962babd5ae)
-
-![Robot4](https://github.com/user-attachments/assets/fc107308-0078-4e06-a691-1aec7e755b14)
-
-![Robot3](https://github.com/user-attachments/assets/3c1aafc6-3de7-4343-885e-17680df75d37)
-
 ![Robot2](https://github.com/user-attachments/assets/1340bb9a-fc51-4831-9ee3-0cc1bb5690c2)
 
 ![Robot1](https://github.com/user-attachments/assets/7aeee6e4-6bc4-47f5-8ac0-fa7cd8ef36a3)
